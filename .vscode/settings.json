@@ -1,0 +1,6 @@
+{
+  "git.ignoreLimitWarning": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
